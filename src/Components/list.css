@@ -1,0 +1,26 @@
+.tuclase {
+  text-align: center;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  font-size: 40px;
+  color: #ebd758;
+  text-shadow: -1px 0 #414d68, 0 1px #414d68, 1px 0 #414d68, 0 -1px #414d68,
+    -2px 2px 0 #414d68, 2px 2px 0 #414d68, 1px 1px #414d68, 2px 2px #414d68,
+    3px 3px #414d68, 4px 4px #414d68, 5px 5px #414d68;
+}
+
+.title {
+    text-align: center; 
+    font-family: Arial Black; 
+    font-weight: bold; font-size: 25px; 
+    background: #202020; 
+    -webkit-background-clip: text; 
+    -moz-background-clip: text; 
+    background-clip: text; 
+    color: transparent; 
+    text-shadow: 0px 3px 3px rgba(255,255,255,0.4),0px -1px 1px rgba(0,0,0,0.3);
+    border-bottom: black solid;
+    border-top: black solid;
+    padding-right: 3px;
+    margin-bottom: 2px;
+    }
