@@ -2,7 +2,7 @@ import React, {useState, useEffect} from "react";
 import axios from 'axios'
 import ReactPlayer from 'react-player'
 import { Link } from 'react-router-dom'
-import "./list.css"
+import "./FootballVideos.css"
 
 
 const FootballVideos = () => {
@@ -29,7 +29,7 @@ try {
       <h1 className="tuclase">Videos of football</h1>
       {videos && videos.map((video) => {
           return (
-            <div key={video.videos.id} className="title">
+            <div key={video.title} className="title">
          {video.title}
           {<br></br>}
           {video.competition}

@@ -1,10 +1,10 @@
 import './App.css';
-import List from './Components/List';
+import FootballVideos from './Components/FootballVideos';
 
 function App() {
   return (
     <div className="App">
-    <List/>
+    <FootballVideos/>
     </div>
   );
 }
