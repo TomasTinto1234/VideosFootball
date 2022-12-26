@@ -38,6 +38,9 @@ try {
           {<br></br>}
 date: {video.date}
 {<br></br>}
+{/* {video.videos.map((e)=>{
+  <div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;background:#000;'><iframe src='https://www.scorebat.com/embed/v/aVFvaDMra3FCNVBZN2wzazlNZTdFQT09/?token=NDQyODVfMTY3MjA2ODMyOF8yYmViMWM2OTk2ZWNhZWMwM2MxYzVjNzE0ZjRmZWIzZDUyZGZjMWJi&utm_source=api&utm_medium=video&utm_campaign=apifd' frameborder='0' width='100%' height='100%' allowfullscreen allow='autoplay; fullscreen' style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>
+})} */}
         </div>
           )
 })
